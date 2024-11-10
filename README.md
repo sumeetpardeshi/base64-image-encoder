@@ -8,6 +8,11 @@
 
 A modern web application that converts images to base64 encoded strings and vice versa. Built with React, TypeScript, and Tailwind CSS.
 
+[Try it ▶️](https://base64-image-encoder.vercel.app/) 
+
+
+
+
 ## 🚀 Features
 
 - Convert images to base64 strings through file upload or URL
